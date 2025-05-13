@@ -1,6 +1,3 @@
-# User-specific Xcode files
-*.xcuserstate
-
 # Xcode workspace files
 *.xcworkspace/
 
@@ -16,4 +13,6 @@ xsshareddata/
 # Ignore xcuserdata folder
 xcuserdata/
 
-UserInterfaceState.xcuserstate
+
+# Ignore all xcuserstate files
+*.xcuserstate
