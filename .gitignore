@@ -1,0 +1,17 @@
+# User-specific Xcode files
+*.xcuserstate
+
+# Xcode workspace files
+*.xcworkspace/
+
+# Ignore the derived data directory
+DerivedData/
+
+# Ignore the build folder
+build/
+
+# Ignore Xcode's temporary shared data
+xsshareddata/
+
+# Ignore xcuserdata folder
+xcuserdata/
